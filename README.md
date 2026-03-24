@@ -1,29 +1,17 @@
-# CodeAlpha_Tasks
-Java internship projects including Student Grade Tracker and Hotel Reservation System built using Swing.
+## Student Grade Tracker
 
+This is a Java GUI-based application that helps in managing student records and their grades.
 
-🚀 Features:
+### Features:
+- Add student ID, name, and marks
+- Display data in table format
+- Delete selected student
+- Calculate average, highest, and lowest marks
 
-Student Management
+### Technologies Used:
+- Java
+- Swing (GUI)
+- ArrayList
 
-Add new students (ID, Name, Grade)
-
-Edit existing student details
-
-Delete student records
-
-Student Records Table
-Real-time updates
-
-Scrollable, tabular format for easy navigation
-
-Search Functionality
-
-Search students instantly by ID or Name
-Data Persistence
-Save student records to a file
-
-Load records from a file
-
-Summary Report
-Calculate Average, Highest, and Lowest grades
+### Description:
+This project stores student data using ArrayList and displays it using JTable. It also calculates summary values like average, highest, and lowest marks using simple loops.
